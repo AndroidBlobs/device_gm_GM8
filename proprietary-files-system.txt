@@ -1,0 +1,1 @@
+lib/vndk-28/com.qualcomm.qti.wifidisplayhal@1.0.so
